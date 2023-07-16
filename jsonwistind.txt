@@ -65,7 +65,7 @@
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
         "card": "https://drive.google.com/uc?export=download&id=1vjjWaNBermPUmvwSxgzXGL16V_EFAyo_",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
-        "title": "Instant Upload",
+        "title": "Wisata Gunung Merbabu",
         "category": "Google+",
         "videoId": "10"
       },
@@ -75,7 +75,7 @@
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4",
         "card": "https://drive.google.com/uc?export=download&id=19jZC9QEFF5lVR7YeTBu8J1OnahXZjUkDmerbabu",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/bg.jpg",
-        "title": "New Dad",
+        "title": "Wisata Gunung Sikunir",
         "category": "Google+",
         "videoId": "11"
       },
@@ -85,7 +85,7 @@
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
         "card": "https://drive.google.com/uc?export=download&id=11YlBdUin-2n0ubkz4Tz8COnEwpTOjAO9",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts/bg.jpg",
-        "title": "Say more with Hangouts",
+        "title": "Wisata Gunung Sindoro",
         "category": "Google+",
         "videoId": "12"
       },
@@ -95,7 +95,7 @@
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
         "card": "https://drive.google.com/uc?export=download&id=18rIeMn7YHpBTAq3MF2LVK5VJvHpIU2Oa",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search/bg.jpg",
-        "title": "Google+ Search",
+        "title": "Wisata Gunung Prau",
         "category": "Google+",
         "videoId": "13"
       },
@@ -105,7 +105,7 @@
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
         "card": "https://drive.google.com/uc?export=download&id=12n7J_LNsmIbT-JZTJuM-Ijm-zdDFhU9O",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life/bg.jpg",
-        "title": "Sharing but like real life",
+        "title": "Wisata Gunung Merapi",
         "category": "Google+",
         "videoId": "14"
       }
@@ -120,7 +120,7 @@
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
         "card": "https://drive.google.com/uc?export=download&id=1LdIUaSxRYD3Uvqq_N1haHG8P0sXiG2ma",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
-        "title": "Instant Upload",
+        "title": "Wisata Pantai Tanjung Gelam",
         "category": "Google+",
         "videoId": "15"
       },
@@ -130,7 +130,7 @@
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4",
         "card": "https://drive.google.com/uc?export=download&id=1UMCH5Wi9F3SrdSdN3Igh97jvYPtNNTAv",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/bg.jpg",
-        "title": "New Dad",
+        "title": "Wisata Pantai Meganti",
         "category": "Google+",
         "videoId": "16"
       },
@@ -140,7 +140,7 @@
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
         "card": "https://drive.google.com/uc?export=download&id=1OqoLVYomtVRv9VsXod55v1iyfU8Qaozc",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts/bg.jpg",
-        "title": "Say more with Hangouts",
+        "title": "Wisata Pantai Karang Bolong",
         "category": "Google+",
         "videoId": "17"
       },
@@ -150,7 +150,7 @@
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
         "card": "https://drive.google.com/uc?export=download&id=1SBKUOnnMTESikUb1SdlVUBpufTGYttCg",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search/bg.jpg",
-        "title": "Google+ Search",
+        "title": "Wisata Pantai Karang Pandan",
         "category": "Google+",
         "videoId": "18"
       },
@@ -160,7 +160,7 @@
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
         "card": "https://drive.google.com/uc?export=download&id=1AcvWMLwi1P314x9CGxkhtGaXvhtUIqOE",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life/bg.jpg",
-        "title": "Sharing but like real life",
+        "title": "Wisata Pantai Bandengan",
         "category": "Google+",
         "videoId": "19"
       }
