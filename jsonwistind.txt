@@ -9,7 +9,7 @@
         "source": "https://drive.google.com/uc?export=download&id=1D2xRGYc5UMfl947sXTaE8IbEf_DQ1emN",
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
         "card": "https://drive.google.com/uc?export=download&id=1yPgLS86wyDgE0djIUetQZIcNmSqxUJHm",
-        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
+        "background": "https://drive.google.com/uc?export=download&id=1yPgLS86wyDgE0djIUetQZIcNmSqxUJHm",
         "title": "Gunung Kawah Putih",
         "category": "Google+",
         "videoId": "0"
@@ -19,7 +19,7 @@
         "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4",
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4",
         "card": "https://drive.google.com/uc?export=download&id=1Nd6OnnLNcCgVPOlpoPGZrQdF429Xs7t2",
-        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/bg.jpg",
+        "background": "https://drive.google.com/uc?export=download&id=1Nd6OnnLNcCgVPOlpoPGZrQdF429Xs7t2",
         "title": "Gunung Cikuray",
         "category": "Google+",
         "videoId": "1"
@@ -29,7 +29,7 @@
         "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
         "card": "https://drive.google.com/uc?export=download&id=1135AKOtV9Im638UlGkECAy7LsqRa7Jx",
-        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts/bg.jpg",
+        "background": "https://drive.google.com/uc?export=download&id=1135AKOtV9Im638UlGkECAy7LsqRa7Jx",
         "title": "Gunung Papandayan",
         "category": "Google+",
         "videoId": "2"
@@ -39,7 +39,7 @@
         "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
         "card": "https://drive.google.com/uc?export=download&id=1nesYuajh3lhIpC4nAQNawFd91fu_qZmw",
-        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search/bg.jpg",
+        "background": "https://drive.google.com/uc?export=download&id=1nesYuajh3lhIpC4nAQNawFd91fu_qZmw",
         "title": "Gunung Ciremai",
         "category": "Google+",
         "videoId": "3"
@@ -49,7 +49,7 @@
         "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
         "card": "https://drive.google.com/uc?export=download&id=13spZOOG-fvTpDzAUP7hO7-DLxD7beQ5t",
-        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life/bg.jpg",
+        "background": "https://drive.google.com/uc?export=download&id=13spZOOG-fvTpDzAUP7hO7-DLxD7beQ5t",
         "title": "Gunung Semeru",
         "category": "Google+",
         "videoId": "4"
@@ -64,7 +64,7 @@
         "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
         "card": "https://drive.google.com/uc?export=download&id=1vjjWaNBermPUmvwSxgzXGL16V_EFAyo_",
-        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
+        "background": "https://drive.google.com/uc?export=download&id=1vjjWaNBermPUmvwSxgzXGL16V_EFAyo_",
         "title": "Wisata Gunung Merbabu",
         "category": "Google+",
         "videoId": "10"
@@ -74,7 +74,7 @@
         "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4",
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4",
         "card": "https://drive.google.com/uc?export=download&id=19jZC9QEFF5lVR7YeTBu8J1OnahXZjUkDmerbabu",
-        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/bg.jpg",
+        "background": "https://drive.google.com/uc?export=download&id=19jZC9QEFF5lVR7YeTBu8J1OnahXZjUkDmerbabu",
         "title": "Wisata Gunung Sikunir",
         "category": "Google+",
         "videoId": "11"
@@ -84,7 +84,7 @@
         "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
         "card": "https://drive.google.com/uc?export=download&id=11YlBdUin-2n0ubkz4Tz8COnEwpTOjAO9",
-        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts/bg.jpg",
+        "background": "https://drive.google.com/uc?export=download&id=11YlBdUin-2n0ubkz4Tz8COnEwpTOjAO9",
         "title": "Wisata Gunung Sindoro",
         "category": "Google+",
         "videoId": "12"
@@ -94,7 +94,7 @@
         "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
         "card": "https://drive.google.com/uc?export=download&id=18rIeMn7YHpBTAq3MF2LVK5VJvHpIU2Oa",
-        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search/bg.jpg",
+        "background": "https://drive.google.com/uc?export=download&id=18rIeMn7YHpBTAq3MF2LVK5VJvHpIU2Oa",
         "title": "Wisata Gunung Prau",
         "category": "Google+",
         "videoId": "13"
@@ -104,7 +104,7 @@
         "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
         "card": "https://drive.google.com/uc?export=download&id=12n7J_LNsmIbT-JZTJuM-Ijm-zdDFhU9O",
-        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life/bg.jpg",
+        "background": "https://drive.google.com/uc?export=download&id=12n7J_LNsmIbT-JZTJuM-Ijm-zdDFhU9O",
         "title": "Wisata Gunung Merapi",
         "category": "Google+",
         "videoId": "14"
@@ -119,7 +119,7 @@
         "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
         "card": "https://drive.google.com/uc?export=download&id=1LdIUaSxRYD3Uvqq_N1haHG8P0sXiG2ma",
-        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
+        "background": "https://drive.google.com/uc?export=download&id=1LdIUaSxRYD3Uvqq_N1haHG8P0sXiG2ma",
         "title": "Wisata Pantai Tanjung Gelam",
         "category": "Google+",
         "videoId": "15"
@@ -129,7 +129,7 @@
         "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4",
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4",
         "card": "https://drive.google.com/uc?export=download&id=1UMCH5Wi9F3SrdSdN3Igh97jvYPtNNTAv",
-        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/bg.jpg",
+        "background": "https://drive.google.com/uc?export=download&id=1UMCH5Wi9F3SrdSdN3Igh97jvYPtNNTAv",
         "title": "Wisata Pantai Meganti",
         "category": "Google+",
         "videoId": "16"
@@ -139,7 +139,7 @@
         "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4",
         "card": "https://drive.google.com/uc?export=download&id=1OqoLVYomtVRv9VsXod55v1iyfU8Qaozc",
-        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts/bg.jpg",
+        "background": "https://drive.google.com/uc?export=download&id=1OqoLVYomtVRv9VsXod55v1iyfU8Qaozc",
         "title": "Wisata Pantai Karang Bolong",
         "category": "Google+",
         "videoId": "17"
@@ -149,7 +149,7 @@
         "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4",
         "card": "https://drive.google.com/uc?export=download&id=1SBKUOnnMTESikUb1SdlVUBpufTGYttCg",
-        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search/bg.jpg",
+        "background": "https://drive.google.com/uc?export=download&id=1SBKUOnnMTESikUb1SdlVUBpufTGYttCg",
         "title": "Wisata Pantai Karang Pandan",
         "category": "Google+",
         "videoId": "18"
@@ -158,8 +158,8 @@
         "description": "New ways of sharing the right things with the right people. Join at http://google.com/+",
         "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
         "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
-        "card": "https://drive.google.com/uc?export=download&id=1AcvWMLwi1P314x9CGxkhtGaXvhtUIqOE",
-        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life/bg.jpg",
+        "card": "https://drive.google.com/uc?export=download&id=1SBKUOnnMTESikUb1SdlVUBpufTGYttCg",
+        "background": "https://drive.google.com/uc?export=download&id=1SBKUOnnMTESikUb1SdlVUBpufTGYttCg",
         "title": "Wisata Pantai Bandengan",
         "category": "Google+",
         "videoId": "19"
@@ -324,7 +324,7 @@
       "source": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
       "preview": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4",
       "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life/bg.jpg",
+      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life/card.jpg",
       "title": "Sharing but like real life",
       "category": "Google+",
       "videoId": "34"
